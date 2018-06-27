@@ -1,9 +1,9 @@
 from aip import AipSpeech
 import wave
 from pyaudio import PyAudio,paInt16
-APP_ID = '11136502'
-API_KEY = 'dPeG4ubYHR0mhwjANj5xcn1YZjahStUF'
-SECRET_KEY = 'BpFVkeP4PMkf2XVHnoaP8yNIe2kujrP7'
+APP_ID = '10455099'
+API_KEY = 'rKCHBLmYiFPuCQTS0HttLbUD'
+SECRET_KEY = '037dc446820ec143d1628c20146b9d34'
 
 client = AipSpeech(APP_ID,API_KEY,SECRET_KEY)
 
